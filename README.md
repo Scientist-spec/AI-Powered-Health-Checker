@@ -1,5 +1,9 @@
 # AI-Powered-Health-Checker
 
+## 🔗 Live Demo
+👉 [Click here to use the AI Health Checker](https://ai-powered-health-checker-deqnqzxdfidaapmtjetncf.streamlit.app/)
+
+
 An AI-powered virtual health assistant built using Streamlit and Cohere (or OpenAI), designed to provide users with basic health insights based on their symptoms and vitals.
 
  Features
